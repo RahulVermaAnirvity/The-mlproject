@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/models/m-b1cc7e65d5354d35a6783536dd1e1055/artifacts
+creation_timestamp: 1757188035024
+experiment_id: '0'
+last_updated_timestamp: 1757188045559
+model_id: m-b1cc7e65d5354d35a6783536dd1e1055
+model_type: null
+name: AdaBoost Regressor
+source_run_id: b1d397d2c45144239aa806ed3060d690
+status: 2
+status_message: null

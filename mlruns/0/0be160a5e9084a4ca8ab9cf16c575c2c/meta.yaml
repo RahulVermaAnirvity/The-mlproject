@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/0be160a5e9084a4ca8ab9cf16c575c2c/artifacts
+end_time: 1757189385314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0be160a5e9084a4ca8ab9cf16c575c2c
+run_name: big-yak-48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757189366871
+status: 3
+tags: []
+user_id: RahulVermaAnirvity

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/39f7ad7a4f064be7a1286d16d929d03f/artifacts
+end_time: 1757188379751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39f7ad7a4f064be7a1286d16d929d03f
+run_name: gaudy-calf-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757188359379
+status: 3
+tags: []
+user_id: RahulVermaAnirvity

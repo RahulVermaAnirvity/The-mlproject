@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/8f6894210aba4909aab6798e001d78f4/artifacts
+end_time: 1757187936905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f6894210aba4909aab6798e001d78f4
+run_name: Gradient Boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757187926789
+status: 3
+tags: []
+user_id: RahulVermaAnirvity

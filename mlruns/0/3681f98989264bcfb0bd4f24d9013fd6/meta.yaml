@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/3681f98989264bcfb0bd4f24d9013fd6/artifacts
+end_time: 1757187861035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3681f98989264bcfb0bd4f24d9013fd6
+run_name: Decision Tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757187850250
+status: 3
+tags: []
+user_id: RahulVermaAnirvity

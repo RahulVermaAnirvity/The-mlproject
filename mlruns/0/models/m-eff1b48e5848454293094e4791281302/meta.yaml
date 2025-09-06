@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/models/m-eff1b48e5848454293094e4791281302/artifacts
+creation_timestamp: 1757187850484
+experiment_id: '0'
+last_updated_timestamp: 1757187860988
+model_id: m-eff1b48e5848454293094e4791281302
+model_type: null
+name: Decision Tree
+source_run_id: 3681f98989264bcfb0bd4f24d9013fd6
+status: 2
+status_message: null

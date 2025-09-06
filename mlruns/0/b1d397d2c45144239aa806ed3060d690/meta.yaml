@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/b1d397d2c45144239aa806ed3060d690/artifacts
+end_time: 1757188045588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1d397d2c45144239aa806ed3060d690
+run_name: AdaBoost Regressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757188034798
+status: 3
+tags: []
+user_id: RahulVermaAnirvity

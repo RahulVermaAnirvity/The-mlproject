@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/models/m-8c5122f078234916884364ade2f469f8/artifacts
+creation_timestamp: 1757187927007
+experiment_id: '0'
+last_updated_timestamp: 1757187936874
+model_id: m-8c5122f078234916884364ade2f469f8
+model_type: null
+name: Gradient Boosting
+source_run_id: 8f6894210aba4909aab6798e001d78f4
+status: 2
+status_message: null

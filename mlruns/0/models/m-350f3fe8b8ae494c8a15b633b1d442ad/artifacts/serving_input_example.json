@@ -1,0 +1,48 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "feature_0",
+      "feature_1",
+      "feature_2",
+      "feature_3",
+      "feature_4",
+      "feature_5",
+      "feature_6",
+      "feature_7",
+      "feature_8",
+      "feature_9",
+      "feature_10",
+      "feature_11",
+      "feature_12",
+      "feature_13",
+      "feature_14",
+      "feature_15",
+      "feature_16",
+      "feature_17",
+      "feature_18"
+    ],
+    "data": [
+      [
+        0.3914918076496706,
+        0.19399858403803502,
+        2.0012972610740296,
+        0.0,
+        0.0,
+        2.5490637096729114,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        3.099735975733903,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.089805973134813,
+        0.0,
+        2.0858879375794324
+      ]
+    ]
+  }
+}

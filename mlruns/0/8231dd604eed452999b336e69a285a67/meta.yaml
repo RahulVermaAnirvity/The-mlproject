@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/8231dd604eed452999b336e69a285a67/artifacts
+end_time: 1757187849898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8231dd604eed452999b336e69a285a67
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757187834429
+status: 3
+tags: []
+user_id: RahulVermaAnirvity

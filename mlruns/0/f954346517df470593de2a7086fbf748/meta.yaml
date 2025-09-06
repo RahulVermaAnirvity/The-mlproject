@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/f954346517df470593de2a7086fbf748/artifacts
+end_time: 1757185328902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f954346517df470593de2a7086fbf748
+run_name: stylish-tern-12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757185285535
+status: 3
+tags: []
+user_id: root

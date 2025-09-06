@@ -8,4 +8,5 @@ cryptography
 seaborn
 catboost
 xgboost
+mlflow
 #-e .

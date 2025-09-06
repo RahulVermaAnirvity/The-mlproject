@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/models/m-2cb4aa3cd5204d07a1cbff3781a4e640/artifacts
+creation_timestamp: 1757187965440
+experiment_id: '0'
+last_updated_timestamp: 1757187978442
+model_id: m-2cb4aa3cd5204d07a1cbff3781a4e640
+model_type: null
+name: XGBRegressor
+source_run_id: f149c389b33241f3b1491f08f5c1ef48
+status: 2
+status_message: null

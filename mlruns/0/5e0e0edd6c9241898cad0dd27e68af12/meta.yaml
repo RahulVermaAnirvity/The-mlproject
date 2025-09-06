@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/5e0e0edd6c9241898cad0dd27e68af12/artifacts
+end_time: 1757188016876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e0e0edd6c9241898cad0dd27e68af12
+run_name: CatBoosting Regressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757188003202
+status: 3
+tags: []
+user_id: RahulVermaAnirvity

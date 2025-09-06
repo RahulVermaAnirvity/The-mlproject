@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/models/m-8d500740e6b048648acd4d159f96eb56/artifacts
+creation_timestamp: 1757187937244
+experiment_id: '0'
+last_updated_timestamp: 1757187947795
+model_id: m-8d500740e6b048648acd4d159f96eb56
+model_type: null
+name: Linear Regression
+source_run_id: ede9b78b546b40d39b5419d9a08c1c3e
+status: 2
+status_message: null

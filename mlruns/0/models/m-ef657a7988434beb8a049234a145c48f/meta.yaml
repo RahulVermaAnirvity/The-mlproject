@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/models/m-ef657a7988434beb8a049234a145c48f/artifacts
+creation_timestamp: 1757187834807
+experiment_id: '0'
+last_updated_timestamp: 1757187849866
+model_id: m-ef657a7988434beb8a049234a145c48f
+model_type: null
+name: Random Forest
+source_run_id: 8231dd604eed452999b336e69a285a67
+status: 2
+status_message: null

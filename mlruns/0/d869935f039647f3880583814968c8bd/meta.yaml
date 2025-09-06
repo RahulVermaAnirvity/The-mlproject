@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/d869935f039647f3880583814968c8bd/artifacts
+end_time: 1757186387787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d869935f039647f3880583814968c8bd
+run_name: agreeable-panda-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757186364005
+status: 3
+tags: []
+user_id: root

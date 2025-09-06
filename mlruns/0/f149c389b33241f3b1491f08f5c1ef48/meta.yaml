@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/f149c389b33241f3b1491f08f5c1ef48/artifacts
+end_time: 1757187978502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f149c389b33241f3b1491f08f5c1ef48
+run_name: XGBRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757187965073
+status: 3
+tags: []
+user_id: RahulVermaAnirvity

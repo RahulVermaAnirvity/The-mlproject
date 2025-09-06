@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/93a40af9fe844ef199ecf17813f60de7/artifacts
+end_time: 1757183710525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93a40af9fe844ef199ecf17813f60de7
+run_name: silent-bug-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757183615496
+status: 3
+tags: []
+user_id: root

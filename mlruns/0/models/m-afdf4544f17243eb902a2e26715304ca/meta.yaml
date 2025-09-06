@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/admin/OneDrive/Desktop/MLproject/mlruns/0/models/m-afdf4544f17243eb902a2e26715304ca/artifacts
+creation_timestamp: 1757189367133
+experiment_id: '0'
+last_updated_timestamp: 1757189385280
+model_id: m-afdf4544f17243eb902a2e26715304ca
+model_type: null
+name: model
+source_run_id: 0be160a5e9084a4ca8ab9cf16c575c2c
+status: 2
+status_message: null
